@@ -1,3 +1,4 @@
 {
-  "users": [{"id":"1", "name": "a name"}]
+  "users": [{"id":"1", "name": "a name"}],
+  "posts":[{"id":"1"}]
 }
